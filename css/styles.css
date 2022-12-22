@@ -27,7 +27,7 @@ hr {
 }
 
 h1 {
-    margin: 130px auto 0 auto;
+    margin: 10% auto 0 auto;
     font-size: 4rem;
     font-family: Sacramento, cursive;
     color: #66BFBF;
@@ -56,15 +56,18 @@ h3 {
     position: absolute;
     right: 100px;
     top: 50px;
+    width: 18%;
 }
 
 .bottom-cloud {
     position: absolute;
     left: 100px;
     bottom: 300px;
+    width: 15%;
 }
-.mountain{
-    width: 70%;
+
+.mountain {
+    width: 50%
 }
 
 .middle-container {
